@@ -95,7 +95,7 @@
     "@vue/cli-service": "^4.1.2",
     "@vue/eslint-config-typescript": "^5.0.2",
     "@vue/test-utils": "^1.0.3",
-    "aws-sdk": "^2.645.0",
+    "aws-sdk": "^2.1693.0",
     "babel-eslint": "^10.0.1",
     "electron": "8.5.2",
     "electron-builder-notarize": "beekeeper-studio/electron-builder-notarize#master",
